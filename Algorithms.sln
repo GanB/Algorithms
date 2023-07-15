@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DijkstrasAlgorithm", "DijkstrasAlgorithm\DijkstrasAlgorithm.vcxproj", "{BE11D56F-8A58-4A97-B783-9577C9592823}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "KadanesAlgorithm", "KadanesAlgorithm\KadanesAlgorithm.vcxproj", "{76D3F2C9-5E36-4EBA-8104-72D36BD96CEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{BE11D56F-8A58-4A97-B783-9577C9592823}.Release|x64.Build.0 = Release|x64
 		{BE11D56F-8A58-4A97-B783-9577C9592823}.Release|x86.ActiveCfg = Release|Win32
 		{BE11D56F-8A58-4A97-B783-9577C9592823}.Release|x86.Build.0 = Release|Win32
+		{76D3F2C9-5E36-4EBA-8104-72D36BD96CEF}.Debug|x64.ActiveCfg = Debug|x64
+		{76D3F2C9-5E36-4EBA-8104-72D36BD96CEF}.Debug|x64.Build.0 = Debug|x64
+		{76D3F2C9-5E36-4EBA-8104-72D36BD96CEF}.Debug|x86.ActiveCfg = Debug|Win32
+		{76D3F2C9-5E36-4EBA-8104-72D36BD96CEF}.Debug|x86.Build.0 = Debug|Win32
+		{76D3F2C9-5E36-4EBA-8104-72D36BD96CEF}.Release|x64.ActiveCfg = Release|x64
+		{76D3F2C9-5E36-4EBA-8104-72D36BD96CEF}.Release|x64.Build.0 = Release|x64
+		{76D3F2C9-5E36-4EBA-8104-72D36BD96CEF}.Release|x86.ActiveCfg = Release|Win32
+		{76D3F2C9-5E36-4EBA-8104-72D36BD96CEF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
